@@ -1,6 +1,5 @@
 const express = require('express');
 require('dotenv').config();
-const User = require('./models/users');
 
 const app = express();
 
